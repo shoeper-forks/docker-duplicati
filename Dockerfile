@@ -1,7 +1,7 @@
 FROM mono:4.6
 MAINTAINER Dmitry  K "d.p.karpov@gmail.com"
 
-ENV DUPLICATI_VER 2.0.2.5_canary_2017-09-14
+ENV DUPLICATI_VER 2.0.2.8_canary_2017-09-20
 
 ENV D_CODEPAGE UTF-8 
 ENV D_LANG en_US
